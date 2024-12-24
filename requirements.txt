@@ -1,0 +1,14 @@
+scikit-learn
+pandas 
+numpy
+seaborn
+matplotlib
+tensorflow
+joblib
+fastapi
+mlflow
+python-box
+ensure
+dagshub
+kagglehub
+boto3
